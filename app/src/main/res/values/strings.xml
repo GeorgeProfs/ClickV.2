@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Click2.0</string>
+    <string name="btn1">Я могу</string>
+    <string name="btn2">Менять</string>
+    <string name="btn3">Цвет</string>
+    <string name="txt1">Тут Будет Магия</string>
+    <string name="button1">Ну</string>
+    <string name="button2">Как</string>
+    <string name="btn5">Вам?</string>
+</resources>
